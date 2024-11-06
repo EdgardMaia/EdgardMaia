@@ -49,4 +49,3 @@
 _Cobrinha gerada por [Platane/snk](https://github.com/Platane/snk)_
 </div>
 <br><br>
-Seja Bem-Vindo(a)!
