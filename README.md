@@ -26,7 +26,7 @@
 <div>
   
   - 🤟 Pretendo seguir a area de cybersecurity mais precisamente blue ou red team, quem sabe um dia me tornar um perito digital.
-  - 📖 Cursando o 5° período em Sistemas de Informação - UNDB. 
+  - 📖 Cursando o 6° período em Sistemas de Informação - UNDB. 
   - 🏖️  São Luís - MA (Brasil).
   - 👀 Quando algo chama muita a minha atenção, desperta uma grande curisiodade para descobrir o que seja e ir além. 
 
