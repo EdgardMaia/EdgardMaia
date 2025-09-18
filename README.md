@@ -5,7 +5,7 @@
   <!-- Status -->
   <img height="160em" width="48%" src="https://edgard-maia-github-readme-stats.vercel.app/api?username=EdgardMaia&show_icons=true&theme=synthwave" />
   <!-- Gráfico de Pizza -->
-  <img height="160em" width="48%" src="https://edgard-maia-github-readme-stats.vercel.app/api/top-langs/?username=EdgardMaia&layout=compact" />
+  <img height="160em" width="48%" src="https://edgard-maia-github-readme-stats.vercel.app/api/top-langs/?username=EdgardMaia&layout=compact&theme=synthwave" />
 </div>
 
 ###
