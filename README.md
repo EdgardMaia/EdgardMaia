@@ -1,7 +1,30 @@
+<style>
+  .session-icons,
+  .session-icons-hardskills {
+    width: 40px; 
+  }
+
+  .titulo-sessions {
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .hard-skills {
+    display: flex;
+    flex-direction: column;
+  }
+  
+</style>
+
 <h3>Sou Edgard, sejam bem-vindos!</h3>
 
 <!-- GitHub Stats -->
-<h3>GitHub Stats</h3>
+<h3 class="titulo-sessions">
+  <img src="./img/icons8-combo-chart.apng" class="session-icons"></img>
+  <p style="margin: .5rem 0 0 .5rem;">GitHub Stats</p>
+</h3>
+
 <div style="
 display: flex; 
 justify-content: center; 
@@ -19,7 +42,10 @@ margin-left: 1rem;">
 
 <div>
 
-  <h3>Sobre Mim</h3>
+  <h3 class="titulo-sessions">
+    <img src="./img/icons8-finn.apng" class="session-icons"></img>
+    <p style="margin: .5rem 0 0 .5rem; ">Sobre Mim</p>
+  </h3>
 
   <p>
 
@@ -32,49 +58,57 @@ margin-left: 1rem;">
   </p>
 </div>
 
+<h3 class="titulo-sessions">
+  <img src="./img/icons8-desenvolvimento-back-end.apng" class="session-icons"></img>
+  <p style="margin: .5rem 0 0 .5rem;" >Hard Skills</p>
+</h3>
 
-<div>
+<div class="hard-skills">
 
-  <h3>Hard Skills</h3>
-  <!-- Desenvolvimento Fron-End -->
+-
   <div>
-    <h3>🎨 Front-end</h3> 
+    <h3>Front-end</h3> 
     <!-- HTML -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+    <img class="session-icons-hardskills" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
     <!-- CSS -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+    <img class="session-icons-hardskills" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
     <!-- SASS -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/sass.png" alt="SASS"/>
+    <img class="session-icons-hardskills" src="https://img.icons8.com/color/48/sass.png" alt="SASS"/>
     <!-- VITE -->
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/vite.png" alt="Vite"/>
+    <img class="session-icons-hardskills" src="https://img.icons8.com/fluency/48/vite.png" alt="Vite"/>
   </div>
 
+- 
   <div>
-    <h3>⚙️ Back-end</h3>
-    <!-- PYTHON -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-    <!-- JAVA -->
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+    <h3>Back-end</h3>
+    <div>
+      <!-- PYTHON -->
+      <img class="session-icons-hardskills" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+      <!-- JAVA -->
+      <img class="session-icons-hardskills" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+    </div>
   </div>
 
+-
   <div>
-    <h3>🔐 Redes e Segurança</h3>
+    <h3>Redes e Segurança</h3>
     <!-- LINUX -->
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.png" alt="Linux"/>
+    <img class="session-icons-hardskills" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.png" alt="Linux"/>
     <!-- KALI LINUX -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
+    <img class="session-icons-hardskills" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
     <!-- NMAP -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
+    <img class="session-icons-hardskills" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
   </div>
 
+-
   <div>
-    <h3>🛠️ Controle e Colaboração</h3>
+    <h3>Controle e Colaboração</h3>
     <!-- GIT -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+    <img class="session-icons-hardskills" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
     <!-- GITHUB -->
-    <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub"/>
+    <img class="session-icons-hardskills" src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub"/>
     <!-- VSCODE -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code"/>
+    <img class="session-icons-hardskills" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code"/>
   </div>
 </div>
 
@@ -84,12 +118,16 @@ display: flex;
 flex-direction: column;
 margin-top: 2rem;">
 
-  <h3>Contatos</h3>
+  <h3 class="titulo-sessions">
+    <img src="./img/icons8-grupos-de-usuários.apng" class="session-icons"></img>
+    <p style="margin: .5rem 0 0 .5rem;">Contatos</p>
+  </h3>
 
   <div style="
   display: flex; 
   flex-direction: row; 
-  gap: 10px;">
+  gap: 10px;
+  justify-content: center;">
     <a href="https://www.instagram.com/_edgardmaia_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></img></a>
     <a href="https://www.linkedin.com/in/edgard-maia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
     <a href="mailto:edgardmaiaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></img></a>
@@ -97,6 +135,6 @@ margin-top: 2rem;">
 
 <img alt="github snake dark mode" src="dist/github-snake-dark.svg" />
 
-_Cobrinha gerada por [Platane/snk](https://github.com/Platane/snk)_
+_Cobrinha gerada por [Platane/snk](https://github.com/Platane/snk)_ 
 _Fonte dos icones: [Icons8](https://icons8.com/)_
 </div>
