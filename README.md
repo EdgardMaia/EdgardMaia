@@ -21,7 +21,7 @@
 
 <!-- GitHub Stats -->
 <h3 class="titulo-sessions">
-  <img src="./img/icons8-combo-chart.apng" class="session-icons"></img>
+  <img src="img/icons8-combo-chart.apng" class="session-icons"></img>
   <p style="margin: .5rem 0 0 .5rem;">GitHub Stats</p>
 </h3>
 
@@ -43,7 +43,7 @@ margin-left: 1rem;">
 <div>
 
   <h3 class="titulo-sessions">
-    <img src="./img/icons8-finn.apng" class="session-icons"></img>
+    <img src="img/icons8-finn.apng" class="session-icons"></img>
     <p style="margin: .5rem 0 0 .5rem; ">Sobre Mim</p>
   </h3>
 
@@ -59,7 +59,7 @@ margin-left: 1rem;">
 </div>
 
 <h3 class="titulo-sessions">
-  <img src="./img/icons8-desenvolvimento-back-end.apng" class="session-icons"></img>
+  <img src="img/icons8-desenvolvimento-back-end.apng" class="session-icons"></img>
   <p style="margin: .5rem 0 0 .5rem;" >Hard Skills</p>
 </h3>
 
@@ -119,7 +119,7 @@ flex-direction: column;
 margin-top: 2rem;">
 
   <h3 class="titulo-sessions">
-    <img src="./img/icons8-grupos-de-usuários.apng" class="session-icons"></img>
+    <img src="img/icons8-grupos-de-usuários.apng" class="session-icons"></img>
     <p style="margin: .5rem 0 0 .5rem;">Contatos</p>
   </h3>
 
