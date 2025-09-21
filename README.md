@@ -1,5 +1,4 @@
 <h3>Sou Edgard, sejam bem-vindos!</h3>
-_______________________________________________________________________________
 
 <!-- GitHub Stats -->
 <h3>GitHub Stats</h3>
@@ -15,7 +14,6 @@ margin-left: 1rem;">
   <!-- Gráfico de Pizza -->
   <img height="160rem" width="48%" src="https://edgard-maia-github-readme-stats.vercel.app/api/top-langs/?username=EdgardMaia&layout=compact&theme=synthwave" alt="Barra de Progresso" />
 </div>
-_______________________________________________________________________________
 
 <!-- Sobre mim -->
 
@@ -33,7 +31,7 @@ _______________________________________________________________________________
   
   </p>
 </div>
-_______________________________________________________________________________
+
 
 <div>
 
@@ -79,7 +77,6 @@ _______________________________________________________________________________
     <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio Code"/>
   </div>
 </div>
-_______________________________________________________________________________
 
 <!-- Pode me encontrar por aqui -->
 <div style="
