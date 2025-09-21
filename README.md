@@ -1,7 +1,7 @@
 <h3>Sou Edgard, sejam bem-vindos!</h3>
 
 <!-- GitHub Stats -->
-<h3 style="display:flex;align-items:center;justify-content:center;margin:0;">
+<h3 align = "center">
   <img src="/img/icons8-combo-chart.apng" alt="Chart icon" style="width:40px;height:40px;" />
   <span style="margin:.5rem 0 0 .5rem;">GitHub Stats</span>
 </h3>
@@ -20,7 +20,7 @@
 </div>
 
 <!-- Sobre mim -->
-<h3 style="display:flex;align-items:center;justify-content:center;margin-top:16px;">
+<h3 align = "center">
   <img src="/img/icons8-finn.apng" alt="Finn" style="width:40px;height:40px;" />
   <span style="margin:.5rem 0 0 .5rem;">Sobre Mim</span>
 </h3>
@@ -31,7 +31,7 @@
   <li>:eyes: Curioso por natureza — quando algo me chama atenção, vou fundo.</li>
 </ul>
 
-<h3 style="display:flex;align-items:center;justify-content:center;margin-top:16px;">
+<h3 align = "center">
   <img src="./img/icons8-desenvolvimento-back-end.apng" alt="Dev" style="width:40px;height:40px;" />
   <span style="margin:.5rem 0 0 .5rem;">Hard Skills</span>
 </h3>
@@ -68,12 +68,12 @@
 </div>
 
 <!-- Contatos -->
-<h3 style="display:flex;align-items:center;justify-content:center;margin-top:2rem;">
-  <img src="./img/icons8-grupos-de-usuários.apng" alt="Contatos" style="width:40px;height:40px;" />
+<h3 align = "center">
+  <img src="img/icons8-grupos-de-usuários.apng" alt="Contatos" style="width:40px;height:40px;" />
   <span style="margin:.5rem 0 0 .5rem;">Contatos</span>
 </h3>
 
-<div style="display:flex;gap:10px;justify-content:center;align-items:center;">
+<div style="display:flex;flex-direction:row;gap:12px;align-items:flex-start;justify-content:center;">
   <a href="https://www.instagram.com/_edgardmaia_/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
