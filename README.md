@@ -2,7 +2,7 @@
 
 <!-- GitHub Stats -->
 <h3 style="display:flex;align-items:center;justify-content:center;margin:0;">
-  <img src="./img/icons8-combo-chart.apng" alt="Chart icon" style="width:40px;height:40px;" />
+  <img src="/img/icons8-combo-chart.apng" alt="Chart icon" style="width:40px;height:40px;" />
   <span style="margin:.5rem 0 0 .5rem;">GitHub Stats</span>
 </h3>
 
@@ -21,7 +21,7 @@
 
 <!-- Sobre mim -->
 <h3 style="display:flex;align-items:center;justify-content:center;margin-top:16px;">
-  <img src="./img/icons8-finn.apng" alt="Finn" style="width:40px;height:40px;" />
+  <img src="/img/icons8-finn.apng" alt="Finn" style="width:40px;height:40px;" />
   <span style="margin:.5rem 0 0 .5rem;">Sobre Mim</span>
 </h3>
 
