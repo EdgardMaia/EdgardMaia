@@ -2,7 +2,6 @@
 
 <!-- GitHub Stats -->
 <h3 align = "center">
-  <img src="/img/icons8-combo-chart.apng" alt="Chart icon" style="width:40px;height:40px;" />
   <span style="margin:.5rem 0 0 .5rem;">GitHub Stats</span>
 </h3>
 
@@ -20,6 +19,11 @@
 </div>
 
 <!-- Hard Skills -->
+
+<h3 align = "center">
+  <span style="margin:.5rem 0 0 .5rem;">Hard Skills</span>
+</h3>
+
 <div style="display:flex;flex-direction:column;gap:12px;align-items:flex-start;">
   <div>
     <h4>Front-end</h4>
@@ -52,7 +56,6 @@
 
 <!-- Contatos -->
 <h3 align = "center">
-  <img src="img/icons8-grupos-de-usuários.apng" alt="Contatos" style="width:40px;height:40px;" />
   <span style="margin:.5rem 0 0 .5rem;">Contatos</span>
 </h3>
 
