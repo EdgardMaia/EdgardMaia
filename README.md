@@ -19,23 +19,6 @@
   />
 </div>
 
-<!-- Sobre mim -->
-<h3 align = "center">
-  <img src="/img/icons8-finn.apng" alt="Finn" style="width:40px;height:40px;" />
-  <span style="margin:.5rem 0 0 .5rem;">Sobre Mim</span>
-</h3>
-
-<ul>
-  <li>:book: Sou <code>estudante</code> de Sistemas de Informação no Centro Universitário <a href="https://undb.edu.br/">UNDB</a>.</li>
-  <li>:closed_lock_with_key: Pretendo seguir a área de <code>segurança da informação</code>.</li>
-  <li>:eyes: Curioso por natureza — quando algo me chama atenção, vou fundo.</li>
-</ul>
-
-<h3 align = "center">
-  <img src="./img/icons8-desenvolvimento-back-end.apng" alt="Dev" style="width:40px;height:40px;" />
-  <span style="margin:.5rem 0 0 .5rem;">Hard Skills</span>
-</h3>
-
 <!-- Hard Skills -->
 <div style="display:flex;flex-direction:column;gap:12px;align-items:flex-start;">
   <div>
