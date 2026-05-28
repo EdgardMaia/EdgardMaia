@@ -1,18 +1,6 @@
 # Sou Edgard, sejam bem-vindos!
 
-## GitHub Stats
-
-![Chart icon](/img/icons8-combo-chart.apng)
-
-![GitHub Status](https://edgard-maia-github-readme-stats.vercel.app/api?username=EdgardMaia&show_icons=true&theme=synthwave)
-
-![Linguagens mais usadas](https://edgard-maia-github-readme-stats.vercel.app/api/top-langs/?username=EdgardMaia&layout=compact&theme=synthwave)
-
-## Sobre Mim
-
-- 📖 Sou **estudante** de Sistemas de Informação no Centro Universitário [UNDB](https://undb.edu.br/).
-- 🔐 Pretendo seguir a área de **segurança da informação**.
-- 👀 Curioso por natureza — quando algo me chama atenção, vou fundo.
+![GitHub Status](https://edgard-maia-github-readme-stats.vercel.app/api?username=EdgardMaia&show_icons=true&theme=synthwave) ![Linguagens mais usadas](https://edgard-maia-github-readme-stats.vercel.app/api/top-langs/?username=EdgardMaia&layout=compact&theme=synthwave)
 
 ## Hard Skills
 
@@ -50,4 +38,4 @@
 
 ![github snake dark mode](dist/github-snake-dark.svg)
 
-*Cobrinha gerada por [Platane/snk](https://github.com/Platane/snk) • Ícones: [Icons8](https://icons8.com/)*
+_Cobrinha gerada por [Platane/snk](https://github.com/Platane/snk) • Ícones: [Icons8](https://icons8.com/)_
